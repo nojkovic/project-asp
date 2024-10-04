@@ -1,0 +1,17 @@
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\DataAccess.runtimeconfig.json
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\DataAccess.dll
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\Domain.dll
+C:\Users\nojko\Desktop\Domain\DataAccess\bin\Debug\net8.0\Domain.pdb
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.csproj.Up2Date
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.dll
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\DataAccess.genruntimeconfig.cache
+C:\Users\nojko\Desktop\Domain\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
